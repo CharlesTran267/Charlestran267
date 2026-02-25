@@ -8,5 +8,5 @@ In my free time, I like to "rice" my workflow setup to be as cool as possible ðŸ
 
 P/s: I use Linux, i3wm, Tmux, Neovim, btw.
 
-### My GitHub Stats
-![Top Languages](./profile/top-langs.svg)
+<!--### My GitHub Stats-->
+<!--![Top Languages](./profile/top-langs.svg)-->
